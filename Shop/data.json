@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "image": "images/shop/1-forest.png",
+    "type": "Forest",
+    "name": "Big fox",
+    "price": "120.00"
+  },
+  {
+    "id": "2",
+    "image": "images/shop/2-other.png",
+    "type": "Other",
+    "name": "Pig fox",
+    "price": "60.50"
+  },
+  {
+    "id": "3",
+    "image": "images/shop/3-foxkid.png",
+    "type": "Kid",
+    "name": "Red fox",
+    "price": "80.38"
+  },
+  {
+    "id": "4",
+    "image": "images/shop/4-foxkid.png",
+    "type": "Kid",
+    "name": "Bad fox",
+    "price": "90.11"
+  },
+  {
+    "id": "5",
+    "image": "images/shop/5-forest.png",
+    "type": "Forest",
+    "name": "Sad fox",
+    "price": "100.40"
+  },
+  {
+    "id": "6",
+    "image": "images/shop/6-other.png",
+    "type": "Other",
+    "name": "Deep fox",
+    "price": "140.84"
+  },
+  {
+    "id": "7",
+    "image": "images/shop/7-forest.png",
+    "type": "Forest",
+    "name": "Cheap fox",
+    "price": "70.01"
+  },
+  {
+    "id": "8",
+    "image": "images/shop/8-foxkid.png",
+    "type": "Kid",
+    "name": "Green fox",
+    "price": "150.50"
+  },
+  {
+    "id": "9",
+    "image": "images/shop/1-forest.png",
+    "type": "Forest",
+    "name": "Bean fox",
+    "price": "120.14"
+  },
+  {
+    "id": "10",
+    "image": "images/shop/2-other.png",
+    "type": "Other",
+    "name": "Mean fox",
+    "price": "60.02"
+  },
+  {
+    "id": "11",
+    "image": "images/shop/3-foxkid.png",
+    "type": "Kid",
+    "name": "Rare fox",
+    "price": "80.99"
+  },
+  {
+    "id": "12",
+    "image": "images/shop/4-foxkid.png",
+    "type": "Kid",
+    "name": "Stare fox",
+    "price": "90.05"
+  },
+  {
+    "id": "13",
+    "image": "images/shop/5-forest.png",
+    "type": "Forest",
+    "name": "French fox",
+    "price": "100.49"
+  },
+  {
+    "id": "14",
+    "image": "images/shop/6-other.png",
+    "type": "Other",
+    "name": "Bench fox",
+    "price": "140.65"
+  },
+  {
+    "id": "15",
+    "image": "images/shop/7-forest.png",
+    "type": "Forest",
+    "name": "Trench fox",
+    "price": "70.56"
+  },
+  {
+    "id": "16",
+    "image": "images/shop/8-foxkid.png",
+    "type": "Kid",
+    "name": "Clench fox",
+    "price": "150.11"
+  }
+]
